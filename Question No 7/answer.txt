@@ -1,0 +1,7 @@
+Question :: 
+        Explain the 3-schema architecture along with its advantages.
+Answer :: 
+        The 3-schema architecture consists of three levels:
+            1. External Schema (User View): Describes how users perceive the data.
+            2. Conceptual Schema (Community View): Represents the logical structure of the entire database.
+            3. Internal Schema (Physical View): Describes how data is stored and accessed at the physical level.

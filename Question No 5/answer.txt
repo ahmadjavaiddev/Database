@@ -1,0 +1,4 @@
+Question :: 
+        List out the different types of classification in DBMS and explain.
+Answer :: 
+        DBMS can be classified based on data models, database architectures, and user accessibility. Common classifications include Relational Database Management Systems (RDBMS), NoSQL databases, object-oriented databases, and hierarchical databases. Each type serves specific use cases, accommodating different data structures and requirements.

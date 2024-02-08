@@ -1,0 +1,6 @@
+Question :: 
+        What is the significance of Data Modeling, and explain the types of Data Modeling.
+Answer :: 
+        Data Modeling is crucial in database design, representing the structure of the data and the relationships between different elements. The two main types of Data Modeling are:
+            1. Conceptual Data Modeling: Focuses on high-level abstraction and relationships between entities.
+            2. Logical Data Modeling: Defines the specific data elements, their relationships, and attributes, translating the conceptual model into a detailed representation.

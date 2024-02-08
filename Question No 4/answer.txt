@@ -1,0 +1,4 @@
+Question :: 
+        Explain the challenges of file-based storage systems that were tackled by DBMS.
+Answer :: 
+        DBMS addresses the challenges of data redundancy, inconsistency, and lack of data integrity in file-based storage systems. By providing a centralized and standardized way to store and manage data, DBMS ensures that data is accurate, secure, and easily accessible by authorized users.

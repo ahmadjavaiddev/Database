@@ -1,0 +1,4 @@
+Question :: 
+        What is DBMS, and what was the need for DBMS?
+Answer :: 
+        DBMS stands for Database Management System. The need for DBMS arose due to the limitations of file-based systems. DBMS provides a centralized and controlled way to manage databases, ensuring data integrity, security, and efficient data retrieval. It simplifies data management tasks, facilitates data sharing among multiple users and applications, and reduces data redundancy.

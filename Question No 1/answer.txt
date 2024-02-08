@@ -1,0 +1,4 @@
+Question :: 
+        What is a database, and why should we need a database?
+Answer :: 
+        A database is a structured collection of data that is organized for efficient storage, retrieval, modification, and deletion. Unlike file-based storage systems, databases provide a centralized and structured approach to managing data. For example, consider an online retail database that stores information about products, customers, and orders. With a database, we can easily query and retrieve specific information, update product details, and analyze customer purchasing patterns.

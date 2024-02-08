@@ -1,0 +1,4 @@
+Question :: 
+        Write a short note on file-based storage systems and explain the major challenge of a file-based storage system.
+Answer :: 
+        File-based storage systems organize data in a hierarchical structure of directories and files. The major challenge with such systems is data redundancy and inconsistency. Each application typically has its own set of files, leading to duplicated data across various files. This redundancy increases the risk of inconsistencies and makes it challenging to maintain data integrity.
